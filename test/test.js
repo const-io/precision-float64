@@ -13,7 +13,7 @@ tape( 'main export is a number', function test( t ) {
 	t.end();
 });
 
-tape( 'the exported value is 52', function test( t ) {
+tape( 'the exported value is 53', function test( t ) {
 	t.equal( PRECISION, 53, 'equals 53' );
 	t.end();
 });
